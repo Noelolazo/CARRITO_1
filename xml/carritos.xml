@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carritos>
+    
+<carrito nombre="Noel"><dni>1</dni></carrito>
+<carrito nombre="Lolazo"><dni>2</dni></carrito>
+
+<carrito nombre="Victor"><dni>3</dni></carrito></carritos>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>1</id>
+        <nombre>PS5</nombre>
+        <precio>500</precio>
+        <stock>10</stock>
+    </item>
+    <item>
+        <id>2</id>
+        <nombre>Switch</nombre>
+        <precio>300</precio>
+        <stock>100</stock>
+    </item>
+    <item>
+        <id>3</id>
+        <nombre>XBOX</nombre>
+        <precio>600</precio>
+        <stock>5</stock>
+    </item>
+    <item>
+        <id>4</id>
+        <nombre>PSP</nombre>
+        <precio>100</precio>
+        <stock>100</stock>
+    </item>
+    <item>
+        <id>5</id>
+        <nombre>PS4</nombre>
+        <precio>200</precio>
+        <stock>50</stock>
+    </item>
+</items>
